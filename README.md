@@ -17,7 +17,7 @@ EternalBlue Exploit Port to various Windows Versions from Windows XP SP2 - Windo
 * support Windows Versions later than Windows7
 * support Windows Versions before Windows7
 
-### Supported Versions (soon)
+### Supported Versions (work in progress)
 * Windows XP SP2 x64
 * Windows XP SP3 x86
 * Windows 2000 SP4 x86
@@ -27,6 +27,7 @@ EternalBlue Exploit Port to various Windows Versions from Windows XP SP2 - Windo
 * Windows 2008 SP1 x64
 * Windows 2008 R2 SP1 x64
 * Windows 2012 R2 x64
+* Windows 7 SP1 x64
 * Windows 8.1 x86
 * Windows 8.1 x64
 * Windows 2016 x64
@@ -35,6 +36,9 @@ EternalBlue Exploit Port to various Windows Versions from Windows XP SP2 - Windo
 * Windows 10 Home x64
 * Windows 10 Enterprise x64
 * Windows 10 Education x64
+
+### Which Versions I have tested
+* Windows 7 SP1 x64
 
 ### How to install?
 
