@@ -3,6 +3,7 @@
 ## This Module is made for use with the Metasploit Framework.
 
 # Please Note: This is still Work in Progress!
+-----------------------------------------------
 
 # MS17-010-EternalBlue-WinXP-Win10
 EternalBlue Exploit Port to various Windows Versions from Windows XP SP2 - Windows 10Pro & Windows 2016
@@ -26,3 +27,10 @@ EternalBlue Exploit Port to various Windows Versions from Windows XP SP2 - Windo
 * Windows 10 Enterprise x64
 * Windows 10 Education x64
 
+## How to install?
+
+Just put the file  ms17_010_eternalblue_winXP-win10.rb  into  ~/.msf4/modules/exploits/windows/smb
+
+## Any contribution is allowed and appreciated
+
+Thanks.
