@@ -8,7 +8,11 @@
 ## MS17-010-EternalBlue-WinXP-Win10
 EternalBlue Exploit Port to various Windows Versions from Windows XP SP2 - Windows 10Pro & Windows 2016
 
-### Supported Versions
+### Things to be done
+* support Windows Versions later than Windows7
+* support Windows Versions before Windows7
+
+### Supported Versions (soon)
 * Windows XP SP2 x64
 * Windows XP SP3 x86
 * Windows 2000 SP4 x86
