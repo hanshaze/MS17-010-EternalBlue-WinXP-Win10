@@ -1,4 +1,4 @@
-![]("eternalblue.jpg")
+![](eternalblue.jpg)
 
 # Eternalblue ported to Windows 8 + Windows 10 etc.
 
