@@ -2,7 +2,7 @@
 
 # Eternalblue ported to Windows 8 + Windows 10 etc.
 
-## This Module is made for use with the Metasploit Framework.
+## This module is made for use with the Metasploit Framework.
 
 This module is for educational purposes only  and I will not be liable for your actions in any way!
 ===================================================================================================
