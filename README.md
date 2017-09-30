@@ -11,7 +11,7 @@ This module is for educational purposes only  and I will not be liable for your 
 ## Please Note: This is still Work in Progress!
 
 ## MS17-010-EternalBlue-WinXP-Win10
-EternalBlue Exploit Port to various Windows Versions from Windows XP SP2 - Windows 10Pro & Windows 2016
+EternalBlue Exploit Port to various Windows Versions from Windows XP SP2 - Windows 10 Pro & Windows 2016
 
 ### Things to be done
 * support Windows Versions later than Windows7
