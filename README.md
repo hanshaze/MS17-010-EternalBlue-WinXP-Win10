@@ -4,7 +4,8 @@
 
 ## This Module is made for use with the Metasploit Framework.
 
-### This module is for educational purposes only and I will not be liable for your actions in any way
+### This module is for educational purposes only 
+### and I will not be liable for your actions in any way!
 
 
 ## Please Note: This is still Work in Progress!
